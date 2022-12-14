@@ -1,2 +1,6 @@
 # tastingswithtay
-https://tastingswithtay.com components.
+
+```
+cd ./ui/tastingswithtay-ui
+npm start
+```
